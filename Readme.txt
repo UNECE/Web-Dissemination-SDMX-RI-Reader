@@ -1,4 +1,4 @@
-For more details see the page at http://www1.unece.org/stat/platform/display/pcaxis/Dissemination+Software
+For more details go to the page at http://www1.unece.org/stat/platform/display/pcaxis/Dissemination+Software
 
 1. Introduction
 Sdmx-Ri Reader is a console application that retrieves Sdmx data and metadata files from Sdmx-RI 
