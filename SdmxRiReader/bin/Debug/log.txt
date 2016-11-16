@@ -1,0 +1,26 @@
+2016-05-09 03:36:06, Invalid character in the given encoding. Line 84, position 14.
+2016-05-09 03:37:07, The 'ImputedTerritoriesNote' start tag on line 208 position 7 does not match the end tag of 'ImputedTerritories'. Line 211, position 8.
+2016-05-09 03:37:55, Invalid character in the given encoding. Line 210, position 48.
+2016-05-11 03:14:54, The 'WebLink' start tag on line 47 position 5 does not match the end tag of 'Territory'. Line 48, position 5.
+2016-05-20 09:50:10, The 'DecimalsNumber' start tag on line 78 position 24 does not match the end tag of 'QuickStatsItem'. Line 204, position 7.
+2016-05-30 11:08:25, The 'Domains' start tag on line 90 position 3 does not match the end tag of 'QuickStatsList'. Line 5491, position 6.
+2016-06-16 04:47:17, Unable to validate the configuration file.
+2016-06-16 05:11:55, Root element is missing.
+2016-06-27 04:02:49, Unable to validate the configuration file.
+2016-06-27 04:03:22, Unable to validate the configuration file.
+2016-06-27 04:03:45, Unable to validate the configuration file.
+2016-06-28 11:01:12, **********************************************************************
+2016-06-28 11:01:12, SDMX Quick Stats Reader, v.1.0
+2016-06-28 11:01:12, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-06-28 11:01:12, Parsing configuiration file at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\config.xml
+2016-06-28 11:03:45, **********************************************************************
+2016-06-28 11:04:06, SDMX Quick Stats Reader, v.1.0
+2016-06-28 11:04:26, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-06-28 11:04:43, Parsing configuiration file at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\config.xml
+2016-06-28 11:07:03, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-06-28 11:26:28, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-06-28 11:45:57, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-06-28 11:48:04, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-08-04 09:52:42, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-11-11 05:05:03, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
+2016-11-11 05:06:05, Validating config file with XSD schema at C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd

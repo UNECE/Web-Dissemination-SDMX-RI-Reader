@@ -1,0 +1,66 @@
+[
+ {"Name":"European Union (28 countries)", "Code": "EU28"}
+,  {"Name":"European Union (27 countries)", "Code": "EU27"}
+,  {"Name":"Euro area (19 countries)", "Code": "EA19"}
+,  {"Name":"Euro area (18 countries)", "Code": "EA18"}
+,  {"Name":"Belgium", "Code": "BE"}
+,  {"Name":"Bulgaria", "Code": "BG"}
+,  {"Name":"Czech Republic", "Code": "CZ"}
+,  {"Name":"Denmark", "Code": "DK"}
+,  {"Name":"Germany (until 1990 former territory of the FRG)", "Code": "DE"}
+,  {"Name":"Germany (including former GDR)", "Code": "DE_TOT"}
+,  {"Name":"Estonia", "Code": "EE"}
+,  {"Name":"Ireland", "Code": "IE"}
+,  {"Name":"Greece", "Code": "EL"}
+,  {"Name":"Spain", "Code": "ES"}
+,  {"Name":"France", "Code": "FR"}
+,  {"Name":"France (metropolitan)", "Code": "FX"}
+,  {"Name":"Croatia", "Code": "HR"}
+,  {"Name":"Italy", "Code": "IT"}
+,  {"Name":"Cyprus", "Code": "CY"}
+,  {"Name":"Latvia", "Code": "LV"}
+,  {"Name":"Lithuania", "Code": "LT"}
+,  {"Name":"Luxembourg", "Code": "LU"}
+,  {"Name":"Hungary", "Code": "HU"}
+,  {"Name":"Malta", "Code": "MT"}
+,  {"Name":"Netherlands", "Code": "NL"}
+,  {"Name":"Austria", "Code": "AT"}
+,  {"Name":"Poland", "Code": "PL"}
+,  {"Name":"Portugal", "Code": "PT"}
+,  {"Name":"Romania", "Code": "RO"}
+,  {"Name":"Slovenia", "Code": "SI"}
+,  {"Name":"Slovakia", "Code": "SK"}
+,  {"Name":"Finland", "Code": "FI"}
+,  {"Name":"Sweden", "Code": "SE"}
+,  {"Name":"United Kingdom", "Code": "UK"}
+,  {"Name":"European Economic Area (EU-28 plus IS, LI, NO)", "Code": "EEA31"}
+,  {"Name":"European Economic Area (EU-27 plus IS, LI, NO)", "Code": "EEA30"}
+,  {"Name":"European Free Trade Association", "Code": "EFTA"}
+,  {"Name":"Iceland", "Code": "IS"}
+,  {"Name":"Liechtenstein", "Code": "LI"}
+,  {"Name":"Norway", "Code": "NO"}
+,  {"Name":"Switzerland", "Code": "CH"}
+,  {"Name":"Montenegro", "Code": "ME"}
+,  {"Name":"Former Yugoslav Republic of Macedonia, the", "Code": "MK"}
+,  {"Name":"Albania", "Code": "AL"}
+,  {"Name":"Serbia", "Code": "RS"}
+,  {"Name":"Turkey", "Code": "TR"}
+,  {"Name":"Andorra", "Code": "AD"}
+,  {"Name":"Belarus", "Code": "BY"}
+,  {"Name":"Bosnia and Herzegovina", "Code": "BA"}
+,  {"Name":"Kosovo (under United Nations Security Council Resolution 1244/99)", "Code": "XK"}
+,  {"Name":"Moldova", "Code": "MD"}
+,  {"Name":"Monaco", "Code": "MC"}
+,  {"Name":"Russia", "Code": "RU"}
+,  {"Name":"San Marino", "Code": "SM"}
+,  {"Name":"Ukraine", "Code": "UA"}
+,  {"Name":"Armenia", "Code": "AM"}
+,  {"Name":"Azerbaijan", "Code": "AZ"}
+,  {"Name":"Georgia", "Code": "GE"}
+,  {"Name":"European Union (15 countries)", "Code": "EU15"}
+,  {"Name":"Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)", "Code": "EA"}
+,  {"Name":"Euro area (12 countries)", "Code": "EA12"}
+,  {"Name":"Canada", "Code": "CA"}
+,  {"Name":"United States", "Code": "US"}
+,  {"Name":"Japan", "Code": "JP"}
+]

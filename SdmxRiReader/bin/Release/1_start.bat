@@ -1,0 +1,1 @@
+SdmxRiReader.exe C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\config.xml C:\MyProjects\WebDesign\SdmxRiReader\Data\Config\validate.xsd
